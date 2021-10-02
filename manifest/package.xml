@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>RestService</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>README</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>illuminatedCloud</members>
+        <members>modules</members>
+        <members>vcs</members>
+        <members>workspace</members>
+        <name>EmailServicesFunction</name>
+    </types>
+    <version>52.0</version>
+</Package>
